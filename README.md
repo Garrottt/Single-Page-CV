@@ -21,4 +21,7 @@ Se busca lograr una estructura clara, comprensible y lista para ser reutilizada 
 ---
 
 ## 🧱 Estructura del Proyecto
+## 🌐 Live Preview
+
+👉 https://roadmap.sh/projects/single-page-cv
 
